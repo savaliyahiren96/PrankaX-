@@ -1,0 +1,6 @@
+{
+  "name": "X Physiotherapy Services – X AI OS",
+  "description": "Centralized AI Business Operating System and Physiotherapy Service Management platform with 15 specialized agents and multi-tier administrative governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
